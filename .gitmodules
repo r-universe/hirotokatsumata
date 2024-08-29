@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dbw"]
+	path = dbw
+	url = https://github.com/hirotokatsumata/dbw
 [submodule "nawtilus"]
 	path = nawtilus
 	url = https://github.com/hirotokatsumata/nawtilus
